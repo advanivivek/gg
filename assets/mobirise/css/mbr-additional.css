@@ -1773,10 +1773,44 @@ body {
 .cid-qRF84WkfQK H3 {
   color: #ffffff;
 }
+.cid-qRGNWtWKRE {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #fafafa;
+}
+.cid-qRGNWtWKRE h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qRGNWtWKRE .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-qRGNWtWKRE .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qRGNWtWKRE .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-qRGNWtWKRE ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-qRGNWtWKRE path {
+  stroke: #ff5b00;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-qRGNWtWKRE .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
 .cid-qRG8MVCAuy {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/mbr-982x652.jpg");
 }
 .cid-qRG8MVCAuy h2 {
   text-align: center;
@@ -1806,7 +1840,7 @@ body {
   word-break: break-word;
 }
 .cid-qRG8MVCAuy .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qRG8MVCAuy .card-title {
   font-weight: 500;
@@ -1845,10 +1879,30 @@ body {
     -webkit-flex-basis: 100%;
   }
 }
+.cid-qRG8MVCAuy .mbr-section-title {
+  color: #ffffff;
+}
+.cid-qRG8MVCAuy .mbr-section-title B {
+  color: #ffffff;
+}
+.cid-qRG8MVCAuy .mbr-crt-title {
+  color: #ffffff;
+}
+.cid-qRG8MVCAuy .mbr-section-text {
+  color: #efefef;
+}
+.cid-qRGRYOY6pR {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qRGRYOY6pR .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qRG4lFmiHf {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/gg-girls-background-2000x1125.jpg");
+  background-image: url("../../../assets/images/happy-3046565-2000x1333.jpg");
 }
 .cid-qRG4lFmiHf h2 {
   text-align: center;
@@ -1892,6 +1946,54 @@ body {
 }
 .cid-qRG4lFmiHf P {
   color: #767676;
+}
+.cid-qRGPcoBma7 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qRGPcoBma7 .carousel-item {
+  justify-content: center;
+}
+.cid-qRGPcoBma7 .carousel-item.active,
+.cid-qRGPcoBma7 .carousel-item-next,
+.cid-qRGPcoBma7 .carousel-item-prev {
+  display: flex;
+}
+.cid-qRGPcoBma7 .carousel-controls a {
+  transition: opacity .5s;
+  font-size: 2rem;
+}
+.cid-qRGPcoBma7 .carousel-controls a span {
+  position: absolute;
+  top: 180px;
+  padding: 10px;
+  border-radius: 50%;
+  color: #585858;
+  background: #c8c6c6;
+  opacity: .5;
+}
+.cid-qRGPcoBma7 .carousel-controls a:hover span {
+  opacity: 1;
+}
+.cid-qRGPcoBma7 .user_image {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 0 auto 2rem auto;
+}
+.cid-qRGPcoBma7 .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+@media (max-width: 230px) {
+  .cid-qRGPcoBma7 .user_image {
+    width: 100%;
+    height: auto;
+  }
 }
 .cid-qRFZ5dl9O7 {
   padding-top: 90px;
@@ -1954,7 +2056,7 @@ body {
 .cid-qRFdcIPgH3 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/happy-3046565-2000x1333.jpg");
+  background-image: url("../../../assets/images/gg-girls-background-2000x1125.jpg");
 }
 .cid-qRFdcIPgH3 .nav-tabs .nav-item.open .nav-link:focus,
 .cid-qRFdcIPgH3 .nav-tabs .nav-link.active:focus {
@@ -1997,91 +2099,16 @@ body {
 .cid-qRFdcIPgH3 .mbr-text {
   text-align: center;
 }
-.cid-qRGd76375f {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #fafafa;
+.cid-qRGSTu1qrg {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-qRGd76375f h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-qRGd76375f .progress {
-  width: 100%;
-}
-.cid-qRGd76375f .title-wrap {
-  display: flex;
-  justify-content: space-between;
-}
-.cid-qRGd76375f progress {
-  height: 8px;
-}
-.cid-qRGd76375f .progressbar-number {
-  display: inline-block;
-}
-.cid-qRGd76375f .progress-primary {
-  background: rgba(206, 206, 206, 0.4);
-  border: none;
-  outline: none;
-}
-.cid-qRGd76375f .progress-primary::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-qRGd76375f .mbr-section-subtitle {
+.cid-qRGSTu1qrg .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qRGd76375f .section-content-title {
-  font-weight: 500;
-}
-.cid-qRGd76375f .progress_value {
-  position: relative;
-}
-.cid-qRGd76375f .progress1 .progressbar-number:before,
-.cid-qRGd76375f .progress2 .progressbar-number:before,
-.cid-qRGd76375f .progress3 .progressbar-number:before,
-.cid-qRGd76375f .progress4 .progressbar-number:before,
-.cid-qRGd76375f .progress5 .progressbar-number:before {
-  position: absolute;
-  right: 15px;
-  top: 0;
-}
-.cid-qRGd76375f progress[value]::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-qRGd76375f progress::-webkit-progress-value {
-  background: #ff7f9f;
-}
-.cid-qRGd76375f progress[value]::-moz-progress-bar {
-  background: #ff7f9f;
-}
-.cid-qRGd76375f progress::-ms-fill {
-  background: #ff7f9f;
-}
-.cid-qRGd76375f .progress1 .progressbar-number:before {
-  content: '100';
-}
-.cid-qRGd76375f .progress2 .progressbar-number:before {
-  content: '2';
-}
-.cid-qRGd76375f .progress3 .progressbar-number:before {
-  content: '80';
-}
-.cid-qRGd76375f .progress4 .progressbar-number:before {
-  content: '70';
-}
-.cid-qRGd76375f .progress5 .progressbar-number:before {
-  content: '60';
-}
-@media (min-width: 768px) {
-  .cid-qRGd76375f .text-elements {
-    padding-right: 3rem;
-  }
-  .cid-qRGd76375f .progress_elements {
-    padding-left: 3rem;
-  }
-}
 .cid-qRGbOI9UK1 {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
@@ -2139,7 +2166,7 @@ body {
 .cid-qRGbC3Q0La {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qRGbC3Q0La .socicon-bg-facebook {
   background: #3e5b98;
@@ -2180,6 +2207,9 @@ body {
   .cid-qRGbC3Q0La .btn {
     font-size: 20px !important;
   }
+}
+.cid-qRGbC3Q0La .mbr-section-title {
+  color: #ffffff;
 }
 .cid-qRGsKqSZ8N {
   padding-top: 45px;
