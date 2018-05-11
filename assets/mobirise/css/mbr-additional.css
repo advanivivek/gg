@@ -2165,7 +2165,7 @@ body {
 }
 .cid-qRK0dxYvEG {
   padding-top: 60px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qRK0dxYvEG .mbr-section-subtitle {
@@ -2207,7 +2207,7 @@ body {
   background: transparent !important;
 }
 .cid-qRK0a4ZLcD .mbr-gallery-item > div:hover:before {
-  opacity: 0.2 !important;
+  opacity: 0.4 !important;
 }
 .cid-qRK0a4ZLcD .mbr-gallery-title {
   font-size: .9em;
@@ -2229,7 +2229,7 @@ body {
   position: absolute;
   background: #554346 !important;
   background: linear-gradient(to left, #554346, #000000) !important;
-  opacity: 0.2;
+  opacity: 0.4;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
